@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alokik0112
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning CSE.
+- 🌱 I’m currently pursuing B-tech in CSE.
 - 💞️ I’m looking to collaborate on open Source.
 - 📫 Ping me on alokik0112@gmail.com
 
