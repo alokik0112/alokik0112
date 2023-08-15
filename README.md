@@ -11,11 +11,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/https://www.instagram.com/alokik_kashyap/?igshid=yzgymtm2mgm%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/alokik_kashyap/?igshid=yzgymtm2mgm%3d" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/alokik_0112" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/alokik_0112" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/alokik_kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/alokik_kumar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/alokik0112/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/alokik0112/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/alokik/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/alokik/practice" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alokik-kumar-b449b4204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alokik-kumar-b449b4204" height="30" width="40" /></a>
+<a href="https://instagram.com/alokik_kashyap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alokik_kashyap" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/alokik_0112" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="alokik_0112" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/alokik_kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="alokik_kumar" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/alokik0112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="alokik0112" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/alokik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="alokik" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -24,4 +25,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alokik0112&show_icons=true&locale=en&layout=compact" alt="alokik0112" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alokik0112&show_icons=true&locale=en" alt="alokik0112" /></p>
-
