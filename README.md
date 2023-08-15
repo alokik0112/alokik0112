@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alokik0112&label=Profile%20views&color=0e75b6&style=flat" alt="alokik0112" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alokik0112" alt="alokik0112" /></a> </p>
+
 - 👨‍💻 All of my projects are available at [https://alokik0112.github.io/Portfolio/](https://alokik0112.github.io/Portfolio/)
 
 - 📫 How to reach me **alokik0112@gmail.com**
