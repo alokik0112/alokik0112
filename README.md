@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **alokik0112@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/alokik0112/Portfolio/blob/main/resume-diff%20format_page-0001.jpg?raw=true](https://github.com/alokik0112/Portfolio/blob/main/resume-diff%20format_page-0001.jpg?raw=true)
+- 📄 My Resume [https://github.com/alokik0112/Portfolio/blob/main/resume-diff%20format_page-0001.jpg?raw=true](https://github.com/alokik0112/Portfolio/blob/main/resume-diff%20format_page-0001.jpg?raw=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
